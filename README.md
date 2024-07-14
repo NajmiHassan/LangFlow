@@ -2,7 +2,10 @@
     <h2 style="margin: 0; font-size: 24px; color: #333;">WordSmith 🧙‍♂️✨</h2>
 </div>
 
+Requirments:
+install streamlit in order to run app
 
-![image](https://github.com/user-attachments/assets/f43a89c8-0383-40ad-9f47-6b41ca847075)
+![image](https://github.com/user-attachments/assets/5bf39588-6a51-438f-9c46-13b574b3a7b5)
+
 
 
